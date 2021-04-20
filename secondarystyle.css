@@ -1,0 +1,12 @@
+#contenido {
+    width: 80%;
+    margin: auto;
+}
+
+    #conte {
+        padding: 50px;
+        float: left;
+        width: 100%;
+        background-color: withe;
+        min-height: 500px;
+      }
